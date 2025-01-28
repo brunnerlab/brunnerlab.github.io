@@ -24,6 +24,13 @@ const members = {
   "cv": "CVs/CV_HKim.pdf"
 },
 
+"Akhileshwar Borra": {
+"name": "Dr. Akhileshwar Borra",
+"title": "postdoc",
+"bio": "Dr. Akhileshwar Borra joined the Turbulence and Wind Energy Group in January 2025. He is developing novel field experiments to understand the interactions between wind turbines and the atmospheric boundary layer. Dr. Borra received his Ph.D. in Aerospace Engineering from the University of Illinois Urbana-Champaign in November 2024, under the supervision of Prof. Theresa Saxton-Fox. His doctoral research focused on experimentally investigating the effects of spatially varying pressure gradients on turbulent boundary layers, as well as extending the proper orthogonal decomposition framework for near-periodic systems. He holds a B.S. in Mechanical Engineering from the University of Massachusetts Amherst, where he conducted research on vortex-induced vibrations.",
+"image": "images/groupmembers/akhilborra.jpg",
+},
+
  "Lorenn Le Turnier": {
  "name": "Lorenn Le Turnier",
  "title": "PhD",
